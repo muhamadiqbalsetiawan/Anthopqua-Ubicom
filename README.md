@@ -1,4 +1,4 @@
-w# Anthopqua-Ubicom
+# Anthopqua-Ubicom
 
 ## Intro 
 - Artikel ini membahas mengenai pembangunan teknologi UbiCom yaitu “Penerapan Teknologi IoT (Internet of Things) dalam  Mendukung Ubiquitous Computing pada Peningkatan Kualitas Tanaman dan Efisiensi Sumber Daya”.
