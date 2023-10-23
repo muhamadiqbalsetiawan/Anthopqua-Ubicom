@@ -48,8 +48,27 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 - Rule Based Method
 
  
-Struktur Data
+## Struktur Data
+
 ![](https://github.com/muhamadiqbalsetiawan/Anthopqua-Ubicom/blob/main/struktur_ubicom.png)
+
+## Arsitektur Sistem
+![](https://github.com/muhamadiqbalsetiawan/Anthopqua-Ubicom/blob/main/arsitektur_ubicok.png)
+
+## Deskripsi Teknologi
+•	Software development 
+  - Java lenguage: bahasa pemrograman yang dapat dijalankan diberbagai komputer termasuk telepon genggam. Bahasa ini sudah berjalan pada miliaran perangkat diseluruh dunia, bahasa pemrograman multiplatform dan berorientasi-object
+•	Sensor 
+  -	soil moisture sensor: merupakan module untuk mendeteksi kelempbaban tanah yang dapat diakses menggunakan mikrocontroller seperti arduino, sensor ini dapat digunakan untuk memantau kelembaban tanah baik secara offline maupun online. Cara kerja dari sensor inii yaitu pada saat diberikan catudayadan disensingkan pada tanah, maka nilai output analog akan berubah sesuai kondisi kadar air pada tanah tersebut. pada saat kondisi tanah:
+-	> Basah: tegangan output akan turun 
+-	> Kering; tegangan output akan naik
+•	Responder 
+  - Module Relay: merupakan salah satu piranti yang berproses berdasarkan prinsip elektromagnetik untuk menggerakan kontaktor guna memindahkan posisi ON dan OFF atau sebaliknya dengan memanfaatkan tanaga listrik. Cara kerja dari relay ini adalah dengan memutus dan menyambungkan aliran listrik dalam rangkaian.
+  - Pompa air: alat yang digunakan untuk memindahkan fluida(air) dari satu tempat ke tempat lain yang prinsip kerjanya adalah dengan mengubah energi mekanik menjadi energi kinetik. Energi mekanik yang diberikan oleh alat digunakan untuk meningkatkan kecepatan, tekanan atau ketinggian (elevasi). Biasanya, pompa digerakan oleh mesin atau motor.
+  - Smartphone: merupakan perangkat elektronik yang di desain untuk memiliki tujuan dan bermacam fungsi praktis dalam mendukung dan memudahkan aktivitas manusia. Dalam kasus ini smartphone berfungsi untuk menangkap input dari mikrocontroller lewat bluetooth dan kemudian memberikan respons dengan notifikasi.
+
+## User Experience
+
 
 
 
