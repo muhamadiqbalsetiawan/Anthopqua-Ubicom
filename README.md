@@ -48,18 +48,8 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 - Rule Based Method
 
  
-Struktur Data 
-Kondisi
-int_	kondisi 
-string	tipe
-int_	waktu 
-int_	deteksi
+Struktur Data
 
-
-Respon
-int_	respons
-string	tipe_respons
-Int_	waktu 
 
 
 
