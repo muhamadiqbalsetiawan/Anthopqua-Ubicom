@@ -1,4 +1,4 @@
-# Anthopqua-Ubicom
+w# Anthopqua-Ubicom
 
 ## Intro 
 - Artikel ini membahas mengenai pembangunan teknologi UbiCom yaitu “Penerapan Teknologi IoT (Internet of Things) dalam  Mendukung Ubiquitous Computing pada Peningkatan Kualitas Tanaman dan Efisiensi Sumber Daya”.
@@ -49,7 +49,7 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 
  
 Struktur Data
-!(https://github.com/muhamadiqbalsetiawan/Anthopqua-Ubicom/blob/main/struktur_ubicom.png)
+![](https://github.com/muhamadiqbalsetiawan/Anthopqua-Ubicom/blob/main/struktur_ubicom.png)
 
 
 
