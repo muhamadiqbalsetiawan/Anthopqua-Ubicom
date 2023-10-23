@@ -46,4 +46,25 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
         
 - Algoritma Fuzzy
 - Rule Based Method
+
  
+Struktur Data 
+Kondisi
+int_	kondisi 
+string	tipe
+int_	waktu 
+int_	deteksi
+
+
+Respon
+int_	respons
+string	tipe_respons
+Int_	waktu 
+
+
+
+
+
+
+
+
