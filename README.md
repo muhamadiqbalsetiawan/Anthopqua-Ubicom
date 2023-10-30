@@ -67,7 +67,7 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
   - Pompa air: alat yang digunakan untuk memindahkan fluida(air) dari satu tempat ke tempat lain yang prinsip kerjanya adalah dengan mengubah energi mekanik menjadi energi kinetik. Energi mekanik yang diberikan oleh alat digunakan untuk meningkatkan kecepatan, tekanan atau ketinggian (elevasi). Biasanya, pompa digerakan oleh mesin atau motor.
   - Smartphone: merupakan perangkat elektronik yang di desain untuk memiliki tujuan dan bermacam fungsi praktis dalam mendukung dan memudahkan aktivitas manusia. Dalam kasus ini smartphone berfungsi untuk menangkap input dari mikrocontroller lewat bluetooth dan kemudian memberikan respons dengan notifikasi.
 
-## User Experience
+## User Experience (UX) Design
 ![](https://github.com/muhamadiqbalsetiawan/Anthopqua-Ubicom/blob/main/image.jpg)
 
 
