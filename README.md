@@ -68,7 +68,7 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
   - Smartphone: merupakan perangkat elektronik yang di desain untuk memiliki tujuan dan bermacam fungsi praktis dalam mendukung dan memudahkan aktivitas manusia. Dalam kasus ini smartphone berfungsi untuk menangkap input dari mikrocontroller lewat bluetooth dan kemudian memberikan respons dengan notifikasi.
 
 ## User Experience
-![](https://github.com/muhamadiqbalsetiawan/Anthopqua-Ubicom/blob/main/image.png)
+![](https://github.com/muhamadiqbalsetiawan/Anthopqua-Ubicom/blob/main/image.jpg)
 
 
 
