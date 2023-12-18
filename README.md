@@ -70,6 +70,9 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 ## User Experience (UX) Design
 ![](https://github.com/muhamadiqbalsetiawan/Anthopqua-Ubicom/blob/main/image.jpg)
 
+![](https://github.com/muhamadiqbalsetiawan/Anthopqua-Ubicom/blob/main/arsitektur.jpg)
+
+
 
 
 
