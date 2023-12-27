@@ -72,6 +72,9 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 
 ![](https://github.com/muhamadiqbalsetiawan/Anthopqua-Ubicom/blob/main/arsitektur.jpg)
 
+![](https://github.com/muhamadiqbalsetiawan/Anthopqua-Ubicom/blob/main/Screenshot 2023-12-28 064514.png)
+
+
 
 
 
