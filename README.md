@@ -75,11 +75,20 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 ![](https://github.com/muhamadiqbalsetiawan/Anthopqua-Ubicom/blob/main/rancangan.png)
 
 ## Demo Penjelasan Dari Solusi Ubicom
-ada di file 
+youtube:
+https://youtu.be/MS6pT1NkOW8
+https://youtu.be/MS6pT1NkOW8
 
+## Analsis Sistem dari Solusi Ubicom yang Dibuat
+perangkat yang dibutuhkan:
+  - soil moisture sensor: module untuk mendeteksi kelempbaban tanah yang dapat diakses menggunakan mikrocontroller
+  - arduino: module mikro kontroler
+  - bread board: perangkai komponen
+  - lcd: menampilkan nilai dari sensor
+  - camera: mendeteksi tanaman
+  - kabel jumper: penghubung sensor dengan mikro kontroler
+  - resistor 220 ohm
+  - module relay
+  - pompa mini
 
-
-
-
-
-
+Jadi diharapkan pada project ini perangkat IoT yang dibuat dapat mendeteksi kelembaban tanah sehingga dari hari deteksi tersebut akan menghasilkan respons yanitu penyiraman air otomatis dari pompa air yang telah dihubungkan dengan arduino, selainna itu juga terdapat camera yang dapat mendeteksi grow up pada tunaman tersebut, dan semua itu dan di kontrol dengan perangkat mobil
