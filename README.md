@@ -46,7 +46,6 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
         
 - Algoritma Fuzzy
 - Rule Based Method
-
  
 ## Struktur Data
 
@@ -92,3 +91,6 @@ perangkat yang dibutuhkan:
   - pompa mini
 
 Jadi diharapkan pada project ini perangkat IoT yang dibuat dapat mendeteksi kelembaban tanah sehingga dari hari deteksi tersebut akan menghasilkan respons yanitu penyiraman air otomatis dari pompa air yang telah dihubungkan dengan arduino, selainna itu juga terdapat camera yang dapat mendeteksi grow up pada tunaman tersebut, dan semua itu dan di kontrol dengan perangkat mobil
+
+## Tampilan Project
+![](https://github.com/muhamadiqbalsetiawan/Anthopqua-Ubicom/blob/main/foto.jpg)
