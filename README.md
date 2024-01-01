@@ -1,12 +1,10 @@
 # Anthopqua-Ubicom
 
 ## Intro 
-- Artikel ini membahas mengenai pembangunan teknologi UbiCom yaitu “Penerapan Teknologi IoT (Internet of Things) dalam  Mendukung Ubiquitous Computing pada Peningkatan Kualitas Tanaman dan Efisiensi Sumber Daya”.
+- Artikel ini membahas mengenai pembangunan teknologi UbiCom yaitu “Penerapan Teknologi IoT (Internet of Things) dalam  Mendukung Ubiquitous Computing pada Peningkatan Bercocok Tanam di Urban Areas dan Efisiensi Sumber Daya”.
 
-## Latar Belakang 
-Datangnya musim kemarau sering kali timbulnya kekeringan dengan sedikitnya ketersediaan air di berbagai tempat, sehingga banyak lahan pertanian atau perkebunan dibiarkan menjadi ladang tandus saja. Mengutip dari brin.go.id bahwa Indonesia memiliki sumber daya air yang sangat besar, namun belum dapat dimanfaatkan secara optimal dalam menunjang sektor pertanian terutama pada lahan kering. Oleh karena itu, pemanfa’atan sumber daya air ini sangatlah penting untuk kesejahteraan dan juga keberlangsungan hidup. 
-Dalam hal ini teknologi IoT berperan untuk peningkatan kualitas tanaman dan juga Mengefisiensikan sumber  daya yang dimiliki, dengan teknologi iot kita dapat mengatur penggunaan air, pendekatan waktu yang tepat saat memanen, dan juga memprediksi tanaman apa yang cocok ditanam di tanah tersebut. 
-
+## Latar Belakang
+Keterbatasan Ruang Fisik Urban areas seringkali memiliki keterbatasan lahan yang dapat digunakan untuk bercocok tanam. Oleh karena itu, solusi IoT harus dirancang untuk dapat beroperasi dalam ruang terbatas, misalnya di balkon, atap, atau ruang indoor. Efisiensi penggunaan air juga dalam lingkungan urban, penggunaan air untuk penyiraman tanaman harus diatur dengan efisien untuk menghindari pemborosan sumber daya. Diharapkan perangkat IoT semacam ini dapat membantu orang-orang di lingkungan urban yang memiliki sedikit lahan untuk tetap dapat menanam tanaman dengan efisien, meminimalkan kerugian akibat hama, dan mengurangi konsumsi air yang tidak perlu.
 ## Branding 
 - Merk: **Anthopqua** 
 - Inspirasi merk: Gabungan dari nama ilmiah hewan lebah dan juga air karena lebah itu hewan yang selalu dekat dengan tanaman dengan tidak merusaknya bahkan memberikan manfaat.
@@ -33,7 +31,7 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 |User|Menerima notifikasi|Pengguna bisa melihat apa yang diberikan sistem baik itu notifikasi aktifitas, rocomendasi waktu panen dan prediksi hasil panen|⭐⭐|
 
 ## Metode dan Algoritma 
-- Device:
+- **Device:**
   - soil moisture sensor: module untuk mendeteksi kelempbaban tanah yang dapat diakses menggunakan mikrocontroller
   - arduino: module mikro kontroler
   - bread board: perangkai komponen
@@ -44,8 +42,17 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
   - module relay
   - pompa mini
         
-- Algoritma Fuzzy
-- Rule Based Method
+- **Rule Based Algorithm**
+  
+- **Metode Perancangan Sistem**
+  - Identifikasi Kebutuhan: kebutuhan fungsional dan non-fungsional perangkat IoT
+  - Pemilihan Platform: platform yang dipilih pada perancangan sistem ini yaitu Arduino Uno
+  - Desain Hardware: pemilihan komponen sensor, akuator, dan koneksi antar komponen
+  - Pengembangan Perangkat Lunak: pada sistem kali ini pemrograman firmware perangkat menggunakan bahasa pemrograman C
+  - Koneksi Jaringan: penghhubungan perangkat baik itu dengan internet, wifi, atau bluetooth
+  - Keamanan Perangkat: ancaman paling serius pada sistem kali ini berasal dari luar seperti bencana, atau gangguan dari hewan terhadap perangkat
+  - Uji Coba dan Optimisasi: pengujian perangkat secara menyeluruh untuk memastikan fungsionalitasnya sesuai dengan keinginan
+  - Perawatan dan Pemantauan Perangkat: penjagaan terhadap kinerja perangkat
  
 ## Struktur Data
 
@@ -88,7 +95,12 @@ perangkat yang dibutuhkan:
   - module relay
   - pompa mini
 
-Jadi diharapkan pada project ini perangkat IoT yang dibuat dapat mendeteksi kelembaban tanah sehingga dari hari deteksi tersebut akan menghasilkan respons yanitu penyiraman air otomatis dari pompa air yang telah dihubungkan dengan arduino, selainna itu juga terdapat camera yang dapat mendeteksi grow up pada tunaman tersebut, dan semua itu dan di kontrol dengan perangkat mobil
+Jadi diharapkan pada project ini perangkat IoT yang dibuat dapat mendeteksi kelembaban tanah sehingga dari hari deteksi tersebut akan menghasilkan respons yanitu penyiraman air otomatis dari pompa air yang telah dihubungkan dengan arduino, selainna itu juga terdapat camera yang dapat mendeteksi hama dan grow up pada tunaman tersebut, dan semua itu dapat di kontrol dengan perangkat mobil.
 
 ## Tampilan Project
 ![](https://github.com/muhamadiqbalsetiawan/Anthopqua-Ubicom/blob/main/foto.jpg)
+
+## Draf Proposal
+google doc:
+https://docs.google.com/document/d/1XJ5tIxdO3-V65OxFybV-0UgZm25w47eEalMKNG_MdvU/edit?usp=sharing
+https://docs.google.com/document/d/1XJ5tIxdO3-V65OxFybV-0UgZm25w47eEalMKNG_MdvU/edit?usp=sharing
